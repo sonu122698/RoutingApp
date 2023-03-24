@@ -1,0 +1,11 @@
+.input1{
+    width: 500px;
+}
+.form-label{
+    font-weight: bold;
+}
+.loginContainer{
+    background-color: aqua;
+    width: auto;
+    height: 700px;
+}
